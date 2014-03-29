@@ -1,10 +1,12 @@
 PFAD
 ====
 
-*Pearls of Functional Algorithm Design*的讨论、笔记。欢迎提交代码或在Issue中参与讨论。
+*Pearls of Functional Algorithm Design*的讨论、代码、笔记。欢迎提交代码或在Issue中参与讨论。
+
+最终成果为该书籍的中文翻译https://github.com/Loveice/pearls-of-functioanl-algorithm-design，并将实时发布在http://fpalgo.readthedocs.org/en/latest/
 
 
-###前半部分
+####前半部分
 + 01-The Smallest Free number
 + 02-A surpassing problem
 + 03-Improving on saddleback search
