@@ -5,7 +5,15 @@ import Test.QuickCheck
 msc :: Ord a => [a] -> Int
 msc xs = maximum [scount z zs | z : zs <- tails xs]
 
+{-  tails是Data.List的库函数，复杂度为O(n)，生成列表的所有后缀。可以这样实现
+   tails :: [a] -> [[a]]
+   tails [] = []
+   tails (x : xs) = (x : xs) : tail xs
+-}
+
 scount x xs = length (filter (x <) xs)
+
+
 
 -- d&c O(nlogn)
 msc' :: Ord a => [a] -> Int
