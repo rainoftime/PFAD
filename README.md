@@ -11,7 +11,7 @@ PFAD
 
 ####前半部分
 + [01-The Smallest Free number](https://github.com/Loveice/PFAD/blob/master/ch1/ch1.md)
-+ [02-A surpassing problem]((https://github.com/Loveice/PFAD/blob/master/ch2/ch2.md)
++ [02-A surpassing problem](https://github.com/Loveice/PFAD/blob/master/ch2/ch2.md)
 + 03-Improving on saddleback search
 + 04-A selection problem
 + 05- Sorting pairwise sums
