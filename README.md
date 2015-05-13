@@ -6,11 +6,12 @@ PFAD
 <img src="http://fpalgo.readthedocs.org/en/latest/_images/cover.jpg"/>
 
 最终成果为该书籍的中文翻译https://github.com/Loveice/pearls-of-functioanl-algorithm-design
-中文译本将实时发布在http://fpalgo.readthedocs.org/en/latest/
+
+中文译本将定期更新、发布在http://fpalgo.readthedocs.org/en/latest/
 
 
 ####前半部分
-+ [01-The Smallest Free number](https://github.com/Loveice/PFAD/blob/master/ch1/ch1.md)
++ [01-The Smallest Free number](https://github.com/Loveice/PFAD/blob/master/ch1/ch1.md)(https://github.com/Loveice/PFAD/issues/15)
 + [02-A surpassing problem](https://github.com/Loveice/PFAD/blob/master/ch2/ch2.md)
 + 03-Improving on saddleback search
 + 04-A selection problem
