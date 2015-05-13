@@ -5,9 +5,7 @@ PFAD
 
 <img src="http://fpalgo.readthedocs.org/en/latest/_images/cover.jpg"/>
 
-最终成果为该书籍的中文翻译https://github.com/Loveice/pearls-of-functioanl-algorithm-design
 
-中文译本将定期更新、发布在http://fpalgo.readthedocs.org/en/latest/
 
 
 ####前半部分
