@@ -3,6 +3,9 @@ PFAD
 
 *Pearls of Functional Algorithm Design*的讨论、代码、笔记。欢迎提交代码（不限语言）或在Issue中参与讨论（代码也可贴在Issue里）。
 
+原书：www.cambridge.org/9780521513388
+
+
 <img src="http://fpalgo.readthedocs.org/en/latest/_images/cover.jpg"/>
 
 
