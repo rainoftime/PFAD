@@ -11,18 +11,19 @@ PFAD
 
 
 ####前半部分
-+ [01-The Smallest Free number](https://github.com/Loveice/PFAD/blob/master/ch1/ch1.md)(https://github.com/Loveice/PFAD/issues/15)
-+ [02-A surpassing problem](https://github.com/Loveice/PFAD/blob/master/ch2/ch2.md)
-+ 03-Improving on saddleback search
-+ 04-A selection problem
-+ 05- Sorting pairwise sums
-+ 06-Making a century
-+ 07-Building a tree with minunum height
-+ 08-Unravelling greedy algorithms
-+ 09-Finding celebrities
-+ 10-Removing duplicates
-+ 11-Not the maximun segment sum
-+ 12-Ranking suffixes
-+ 13-Burrows-Wheeler transfor
-+ 14-The last tail
-+ 15-All the common prefixes
++ [01-The Smallest Free number](https://github.com/Loveice/PFAD/blob/master/ch1/ch1.md)[Discuss](https://github.com/Loveice/PFAD/issues/1)
++ [02-A surpassing problem](https://github.com/Loveice/PFAD/blob/master/ch2/ch2.md)[Discuss](https://github.com/Loveice/PFAD/issues/2)
++ 03-Improving on saddleback search[Discuss](https://github.com/Loveice/PFAD/issues/3)
++ 04-A selection problem[Discuss](https://github.com/Loveice/PFAD/issues/4)
++ 05- Sorting pairwise sums[Discuss](https://github.com/Loveice/PFAD/issues/5)
++ 06-Making a century[Discuss](https://github.com/Loveice/PFAD/issues/6)
++ 07-Building a tree with minunum height[Discuss](https://github.com/Loveice/PFAD/issues/7)
++ 08-Unravelling greedy algorithms[Discuss](https://github.com/Loveice/PFAD/issues/8)
++ 09-Finding celebrities[Discuss](https://github.com/Loveice/PFAD/issues/9)
++ 10-Removing duplicates[Discuss](https://github.com/Loveice/PFAD/issues/10)
++ 11-Not the maximun segment sum[Discuss](https://github.com/Loveice/PFAD/issues/11)
++ 12-Ranking suffixes[Discuss](https://github.com/Loveice/PFAD/issues/12)
++ 13-Burrows-Wheeler transfor[Discuss](https://github.com/Loveice/PFAD/issues/13)
++ 14-The last tail[Discuss](https://github.com/Loveice/PFAD/issues/14)
++ 15-All the common prefixes[Discuss](https://github.com/Loveice/PFAD/issues/15)
+
